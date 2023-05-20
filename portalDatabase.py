@@ -72,8 +72,3 @@ class Database():
         ''' Complete the method to delete account
                 and all transactions related to account'''
         pass
-        
-        
-        
-    
-    
